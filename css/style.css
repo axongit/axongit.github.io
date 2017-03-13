@@ -1,0 +1,25 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1170px;
+}
+
+.main-header {
+    background-image: url(../img/background-image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 711px;
+}
+
+.site-logo {
+    margin-top: 24px;
+}
+
+.main-navigation ul {
+    display: inline-block;
+}
